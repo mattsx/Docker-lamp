@@ -1,0 +1,20 @@
+[Thu Nov 15 05:44:56.162205 2018] [autoindex:error] [pid 6] [client 172.18.0.1:60430] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Nov 15 05:45:24.250074 2018] [authz_core:error] [pid 7] [client 172.18.0.1:60446] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:45:24.928074 2018] [authz_core:error] [pid 7] [client 172.18.0.1:60446] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:45:25.100110 2018] [authz_core:error] [pid 7] [client 172.18.0.1:60446] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:45:25.299841 2018] [authz_core:error] [pid 7] [client 172.18.0.1:60446] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:45:25.413530 2018] [authz_core:error] [pid 7] [client 172.18.0.1:60446] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:45:42.278326 2018] [authz_core:error] [pid 9] [client 172.18.0.1:60452] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:45:42.415410 2018] [authz_core:error] [pid 9] [client 172.18.0.1:60452] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:45:42.416804 2018] [authz_core:error] [pid 10] [client 172.18.0.1:60450] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:45:42.567873 2018] [authz_core:error] [pid 9] [client 172.18.0.1:60452] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:45:42.567873 2018] [authz_core:error] [pid 10] [client 172.18.0.1:60450] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:46:12.850959 2018] [authz_core:error] [pid 6] [client 172.18.0.1:60454] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:46:13.435186 2018] [authz_core:error] [pid 6] [client 172.18.0.1:60454] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:46:13.623805 2018] [authz_core:error] [pid 6] [client 172.18.0.1:60454] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:46:13.873431 2018] [authz_core:error] [pid 6] [client 172.18.0.1:60454] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:46:16.022003 2018] [authz_core:error] [pid 6] [client 172.18.0.1:60454] AH01630: client denied by server configuration: /Users
+[Thu Nov 15 05:46:16.073926 2018] [authz_core:error] [pid 6] [client 172.18.0.1:60454] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:46:16.074418 2018] [authz_core:error] [pid 9] [client 172.18.0.1:60456] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:46:16.109791 2018] [authz_core:error] [pid 9] [client 172.18.0.1:60456] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css
+[Thu Nov 15 05:46:16.112894 2018] [authz_core:error] [pid 9] [client 172.18.0.1:60456] AH01630: client denied by server configuration: /Users, referer: http://localhost/noindex/css/open-sans.css

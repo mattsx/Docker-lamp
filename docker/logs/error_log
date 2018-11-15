@@ -1,0 +1,36 @@
+[Thu Nov 15 04:06:38.208626 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 15 04:06:38.264312 2018] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Nov 15 04:06:38.265311 2018] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 15 04:06:38.402857 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) PHP/5.6.38 configured -- resuming normal operations
+[Thu Nov 15 04:06:38.403368 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 15 05:44:43.952230 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Nov 15 05:44:46.351118 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 15 05:44:46.424196 2018] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Nov 15 05:44:46.425262 2018] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 15 05:44:46.522958 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) PHP/5.6.38 configured -- resuming normal operations
+[Thu Nov 15 05:44:46.523301 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 15 05:45:21.132181 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Nov 15 05:45:23.265167 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/Users/matsue/p/roppongi15th/html] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 15 05:45:23.382163 2018] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Nov 15 05:45:23.383061 2018] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 15 05:45:23.410181 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) PHP/5.6.38 configured -- resuming normal operations
+[Thu Nov 15 05:45:23.410910 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 15 05:46:00.310389 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Nov 15 05:46:09.708247 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/Users/matsue/p/roppongi15th/html] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 15 05:46:09.838739 2018] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Nov 15 05:46:09.839807 2018] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 15 05:46:09.866505 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) PHP/5.6.38 configured -- resuming normal operations
+[Thu Nov 15 05:46:09.867269 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Nov 15 05:46:49.478359 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Nov 15 05:46:51.697224 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 15 05:46:51.734179 2018] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Nov 15 05:46:51.735097 2018] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Nov 15 05:46:51.760111 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) PHP/5.6.38 configured -- resuming normal operations
+[Thu Nov 15 05:46:51.761868 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
